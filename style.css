@@ -1,3 +1,14 @@
+body {
+  cursor: url('./cursor-final.png'), auto;
+}
+
+
+
+
+
+
+
+/* Sourced from w3schools.com, modified to fit my needs. */
 /* The sidebar menu */
 .sidebar {
   height: 100%; /* 100% Full-height */
